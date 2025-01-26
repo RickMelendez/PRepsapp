@@ -1,0 +1,9 @@
+meal-prep-app/
+├── server/
+│   ├── models/        # Database models
+│   ├── routes/        # API routes
+│   ├── controllers/   # Request handlers
+│   ├── middleware/    # Auth & error handling
+│   ├── server.js      # Entry point
+│   ├── config.js      # Configuration (e.g., database, Stripe keys)
+├── frontend/          # Frontend (optional for now)
